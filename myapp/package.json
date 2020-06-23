@@ -1,0 +1,22 @@
+{
+  "name": "mynpmproject",
+  "version": "1.0.0",
+  "description": "KickStart NPM Projects for local POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kattaprasanth/salt-example-website.git"
+  },
+  "author": "Prasanth Katta",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kattaprasanth/salt-example-website/issues"
+  },
+  "homepage": "https://github.com/kattaprasanth/salt-example-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
